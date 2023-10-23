@@ -8,7 +8,7 @@ namespace GeometricLibrary
 {
     public class Cirkel : Geometri // Sub-class that inherit from the base-class.
     {
-        public int _radie; // A field.
+        int _radie; // A field.
         public Cirkel()
         {
             _radie = 5;
