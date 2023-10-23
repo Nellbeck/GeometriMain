@@ -1,17 +1,12 @@
 ﻿namespace GeometricLibrary
 {
-    public class Geometri // Base class.
+    public abstract class Geometri // Base class.
     {
         public int Höjd { get; set; }
         public int Bredd { get; set; }
-        public virtual double InputArea { get; set; } // Some propertys.
+        public abstract double InputArea { get; set; } // Some propertys.
         public double _pi = 3.14F;
 
-        public virtual double Area() // Base class method.
-        {
-            InputArea = Höjd * Bredd;
-
-            return InputArea;
-        }
+        public abstract double Area(); // Base class method.
     }
 }
