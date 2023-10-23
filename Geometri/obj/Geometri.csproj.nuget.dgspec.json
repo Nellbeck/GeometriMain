@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj": {}
+    "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
+    "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
         "projectName": "GeometricLibrary",
-        "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
+        "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
         "packagesPath": "C:\\Users\\Fogge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj": {
+    "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj",
+        "projectUniqueName": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj",
         "projectName": "Geometri",
-        "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj",
+        "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj",
         "packagesPath": "C:\\Users\\Fogge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\obj\\",
+        "outputPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
-                "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj"
+              "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
+                "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj"
               }
             }
           }

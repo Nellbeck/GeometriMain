@@ -8,18 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "Geometri/1.0.0": {
         "dependencies": {
-          "GeometricLibrary": "1.0.0.0"
+          "GeometricLibrary": "1.0.0"
         },
         "runtime": {
           "Geometri.dll": {}
         }
       },
-      "GeometricLibrary/1.0.0.0": {
+      "GeometricLibrary/1.0.0": {
         "runtime": {
-          "GeometricLibrary.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "GeometricLibrary.dll": {}
         }
       }
     }
@@ -30,8 +27,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GeometricLibrary/1.0.0.0": {
-      "type": "reference",
+    "GeometricLibrary/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }
