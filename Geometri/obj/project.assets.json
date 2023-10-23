@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj",
+      "projectUniqueName": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj",
       "projectName": "Geometri",
-      "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\Geometri.csproj",
+      "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\Geometri\\Geometri.csproj",
       "packagesPath": "C:\\Users\\Fogge\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\Geometri\\obj\\",
       "projectStyle": "PackageReference",
@@ -59,8 +59,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
-              "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj"
+            "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
+              "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj"
             }
           }
         }

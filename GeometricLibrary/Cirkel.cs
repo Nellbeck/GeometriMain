@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace GeometricLibrary
 {
-    public class Cirkel : Geometri
+    public class Cirkel : Geometri // Sub-class that inherit from the base-class.
     {
-        public int Radie; // A field.
+        public int _radie; // A field.
         public Cirkel()
         {
-            Radie = 5;
+            _radie = 5;
         } // Constructor that gives the field a value.
 
 
         public override double Area()
         {
-            InputArea = _pi * Radie * Radie;
+            InputArea = _pi * _radie * _radie;
             return InputArea;
         } // Method to calculate the area of a cirkel.
     }

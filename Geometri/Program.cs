@@ -15,7 +15,7 @@ namespace GeometriMain
                 new Parallellogram(),
                 new Ellips()
             };
-            // A list that works like an array of all the instance calls.
+            // A list that works like an array that holds all the instance calls.
 
             
             string[] geometriForm = { "Fyrkant", "Cirkel", "Rektangel", "Parallellogram", "Ellips" };
@@ -23,7 +23,7 @@ namespace GeometriMain
             for (int indexNumber = 0; indexNumber < geometriForm.Length; indexNumber++)
             {
                 Console.WriteLine($"Area {geometriForm[indexNumber]}: {geometriArea[indexNumber].Area()}");
-            } // A for loop to loop the both arrays and the method.
+            } // A for loop to loop both the generic list, the array and the method they hold.
         }
     }
 }

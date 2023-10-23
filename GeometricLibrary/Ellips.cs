@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace GeometricLibrary
 {
-    public class Ellips : Geometri
+    public class Ellips : Geometri // Sub-class that inherit from the base-class.
     {
-        double RadieA;
-        double RadieB; // Some fields.
+        double _radieA;
+        double _radieB; // Some fields.
         public Ellips()
         {
-            RadieA = 8;
-            RadieB = 10;
+            _radieA = 8;
+            _radieB = 10;
         } // Constructor that gives the fields some values.
 
         public override double Area()
         {
-            InputArea = RadieA * RadieB * _pi;
+            InputArea = _radieA * _radieB * _pi;
             return InputArea;
         } // Method that overrides the one from the base class.
     }

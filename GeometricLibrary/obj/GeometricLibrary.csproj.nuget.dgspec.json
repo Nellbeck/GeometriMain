@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {}
+    "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
+    "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
         "projectName": "GeometricLibrary",
-        "projectPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
+        "projectPath": "C:\\Users\\Fogge\\source\\repos\\GeometriMain\\GeometricLibrary\\GeometricLibrary.csproj",
         "packagesPath": "C:\\Users\\Fogge\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Fogge\\Source\\Repos\\GeometriMain\\GeometricLibrary\\obj\\",
         "projectStyle": "PackageReference",
